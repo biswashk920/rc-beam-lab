@@ -1,6 +1,6 @@
 # RC designer: beams and columns (IS 456:2000)
 
-**Live app: [biswashk920.github.io/rc-beam-lab](https://biswashk920.github.io/rc-beam-lab/)**
+**[Live app:](https://biswashk920.github.io/rc-beam-lab/)**
 
 Design a reinforced concrete beam (rectangular or T) or column to IS 456:2000, with optional IS 13920 seismic detailing. You get clause-referenced checks, zoned stirrups, 2D diagrams, an interactive 3D view of the reinforcement cage, a bar schedule, and CSV and PNG downloads. Everything runs in your browser; no third-party scripts or fonts are loaded.
 
